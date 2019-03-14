@@ -1,0 +1,7 @@
+Starbucks,2018130,5.99
+Ace Hardware,20171001,12.45
+StarBucks,20180217,12.45
+Stater Bros,20170919,28.05
+Home Depot,20171207,500.25
+Holiday Inn Express, 20171207,430.21
+Stater Bros,20171119,12.45

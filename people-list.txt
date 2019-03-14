@@ -1,0 +1,9 @@
+Fred Flintstone    1234 Granite Drive        Bedrock CA          916.555.0000
+Barney Rubble      1246 Lava Court           Bedrock CA          916.555.1111
+George Slate       2 Fancy Schmancy Circle   Granite Heights CA  502.555.1212
+Wilma Flintstone   1234 Granite Drive        Bedrock CA          916.555.0001
+Betty Rubble       1246 Lava Court           Bedrock CA          916.555.1110
+Dino               1234 Granite Drive        Bedrock CA          n/a
+Yogi Bear          999 Jellystone Park       National WY         202.555.2020
+Booboo Bear        234 Jellystone Park       National WY         202.555.2121
+Mr. Ranger         1 Park HQ                 National WY         202.555.9999
