@@ -24,7 +24,7 @@ N/A
 
 ## Authors
 
-* **Some Folks and me :D ** - *Initial work* - [PurpleBooth](https://github.com/eltechno)
+* **Some Folks and me :D ** - *Initial work* - [Eltechno](https://github.com/eltechno)
 
 
 ## License
