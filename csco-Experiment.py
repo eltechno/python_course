@@ -21,14 +21,16 @@ hostname = socket.gethostname()
 ioukey=int(hostid,16)
 for x in hostname:
  ioukey = ioukey + ord(x)
+print("ioukey ===", ioukey)
 print("hostid=" + hostid +", hostname="+ hostname + ", ioukey=" + hex(ioukey)[2:])
 
 # create the license using md5sum
 iouPad1 = b'\x4B\x58\x21\x81\x56\x7B\x0D\xF3\x21\x43\x9B\x7E\xAC\x1D\xE6\x8A'
-iouPad2 = b'\x80' + 39*b'\0'
+iouPad2 = b'\x80' + 39 * b'\0'
 md5input=iouPad1 + iouPad2 + struct.pack('!I', ioukey) + iouPad1
+print ("md5input ===", md5input)
 iouIncense=hashlib.md5(md5input).hexdigest()[:16]
-print (iouIncense)
+print ("incense ===", iouIncense)
 
 # add license info to $HOME/.ioucr
 print ("*" * 70)
