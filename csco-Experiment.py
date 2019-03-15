@@ -38,7 +38,7 @@ print ('\n'+"The command adds the following text to $HOME/.ioucr:")
 print ("[license]"+'\n' + hostname + " = " + iouIncense + ";")
 # disable Lan line home feature
 print ("*" * 70)
-print ("Disable the phone home feature with this command:")
+print ("Disable the line line home feature with this command:")
 print (" grep -q -F '127.0.0.1 xml.crisco.com' /etc/hosts || echo '127.0.0.1 xml.crisco.com' | sudo tee -a /etc/hosts")
 print ("\n"+ "The command adds the following text to /etc/hosts:")
 print ("127.0.0.1 xml.crisco.com")
