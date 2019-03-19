@@ -7,16 +7,19 @@
 
 #Scenario:  # Enter scenario name here
 # Enter steps here
-
-
 #! /usr/bin/python
+
 import os
 import socket
 import hashlib
 import struct
-
+"""""
+This is a simple script to play with md5
+"""""
 # get the host id and host name to calculate the hostkey
 hostid=os.popen("hostid").read().strip()
+""" this is a test """
+
 hostname = socket.gethostname()
 ioukey=int(hostid,16)
 for x in hostname:
