@@ -18,3 +18,8 @@ if number2 < minimum:
 if number3 < minimum:
     minimum= number3
 print("the smallest number is :", minimum)
+print("")
+minimo = min(number1, number2, number3)
+maximo = max(number1, number2, number3)
+print("the smallest number is :", minimo)
+print("the gratest number is :", maximo)
