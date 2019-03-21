@@ -25,8 +25,13 @@ import decimal
 import statistics
 
 grades = [85, 93, 45, 89, 85]
+grades2 = [85, 93, 45, 89, 85, 93]
 media = sum(grades) / len(grades)
 print (media)
+print(sorted(grades))
 
+print (statistics.mean(grades))
+print (statistics.median(grades))
+print (statistics.mode(grades))
 
-statistics.mean(grades)
+print(statistics.mode(grades2)) #THIS CAUSE AN ERROR DUE BIMODAL LIST 85 AND 93
