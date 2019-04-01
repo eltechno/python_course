@@ -15,3 +15,11 @@ print(tuple(enumerate(colors)))
 
 for index, value in enumerate(colors):
     print(f'{index}: {value}')
+
+numbers = [10,100,1000,3000,4000,5000]
+
+key=1000
+if key in numbers:
+    print(f'found {key} at index {numbers.index(key)}')
+else:
+    print(f'{key} not found')
