@@ -10,19 +10,21 @@ Created on Thu Feb 21 10:34:48 2019
 
 numbers = [1, 2, 3, 4, 5, 6]
 
+#======================================================================================
 poweredNumbers = [] 
-
 for elements in numbers:
-        poweredNumbers.append(elements**2) #elevar los elementos de la lista a 
-                                           #potencia de 2
+        poweredNumbers.append(elements**2) #elevar los elementos de la lista a potencia de 2
 print (numbers) 
 print (poweredNumbers)
+#======================================================================================
 
+
+#======================================================================================
 poweredNumbers2 = [element**2   #eleva a la potencia de 2
                  for element in numbers #de la lista numbers obtiene los datos para element
                  ]
 print (poweredNumbers2)
-
+#======================================================================================
 
 """
 even number ends in 0,2,4,6,8 (par)
