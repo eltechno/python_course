@@ -69,3 +69,79 @@ days_per_month = {'January':   31, 'February': 28, 'March': 31}
 
 for month, days in days_per_month.items():
     print(f'{month} has {days} days')
+
+print()
+
+roman_numerals = {'I':   1, 'II': 2, 'III': 3, 'V': 5, 'X': 100}
+#get the value associated with the key 'V'
+print(roman_numerals['V'])
+
+#lets correct the key X with the correct value
+roman_numerals['X'] = 10
+print(roman_numerals)
+
+#adding new pair of key and value
+roman_numerals['L']= 50
+print(roman_numerals)
+
+#deleting a key value pair
+del roman_numerals['III']
+print(roman_numerals)
+
+#deleting a key value pair with pop
+roman_numerals.pop('X')
+print(roman_numerals)
+
+#print(roman_numerals['III'])
+
+#if no other settings is apply no message display or only None
+print(roman_numerals.get('III'))
+
+print(roman_numerals.get('III', 'III not in dictionary'))
+
+print(roman_numerals.get('V'))
+
+#Testing Whether a Dictionary Contains a Specified KeyOperators in and not in can
+# determine whether a dictionary contains a specified key:
+
+print ('V' in roman_numerals)
+print ('III' in roman_numerals)
+print ('III' not in roman_numerals)
+
+
+months = {'January': 1, 'February': 2, 'March': 3}
+
+for day, month_name in months.items():
+    print(day, month_name, end="  ")
+print()
+
+for month_name in months.keys():
+    print(month_name, end=" ")
+print()
+
+for month_number in months.values():
+    print(month_number, end=" ")
+print()
+
+#Converting Dictionary Keys, Values and Key–Value Pairs to Lists
+print ( list(months.keys()) )
+print ( list(months.values()) )
+
+print(list(months.items()))
+print()
+
+#Processing Keys in Sorted Order
+for months_name in sorted(months.keys()):
+    print(months_name, end=" ")
+
+print()
+
+#Dictionary Comparisons
+country_capitals1 = {'Belgium':   'Brussels','Haiti':   'Port-au-Prince'}
+country_capitals2 = {'Nepal':   'Kathmandu','Uruguay':   'Montevideo'}
+country_capitals3 = {'Haiti':   'Port-au-Prince', 'Belgium':   'Brussels'}
+
+print (country_capitals1 == country_capitals2)
+print(country_capitals1 == country_capitals3)
+print(country_capitals1 != country_capitals2)
+
