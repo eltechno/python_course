@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f9380b7-4d07-434f-abc4-10e0bfd9a60e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterating-backward-sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterating-backward-sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-and-max-alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/min-and-max-alphabet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zip-function-iterables-into-tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip-function-iterables-into-tuples.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dictionaries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="375">
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
             </state>
           </provider>
         </entry>
@@ -193,8 +188,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1848" />
-    <option name="y" value="190" />
+    <option name="x" value="1990" />
+    <option name="y" value="80" />
     <option name="width" value="1536" />
     <option name="height" value="916" />
   </component>
@@ -493,7 +488,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2074" y="27" width="1536" height="916" extended-state="0" />
+    <frame x="1990" y="80" width="1536" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.22736286" />
@@ -886,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="375">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
         </state>
       </provider>
     </entry>
