@@ -10,11 +10,11 @@
 
 from collections import Counter
 
-text = ('this is sample text   with several words '
-        'this is more sample   text with some different words')
+text = ('this is sample text different  with several words '
+        'this is more sample  different text with some different words')
 
 counter = Counter(text.split())
-#print(counter)
+print(counter)
 
 for word, count in sorted(counter.items()):
     print(f'{word:<12}{count}')

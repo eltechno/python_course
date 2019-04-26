@@ -7,7 +7,9 @@ import seaborn as sns
 import sys
 
 # use list comprehension to create a list of rolls of a six-sided die
-rolls = [random.randrange(1, 7) for i in range(int(sys.argv[1]))]
+#rolls = [random.randrange(1, 7) for i in range(int(sys.argv[1]))]
+
+rolls = [random.randrange(1,7) for i in range(600)]
 
 # NumPy unique function returns unique faces and frequency of each face
 values, frequencies = np.unique(rolls, return_counts=True)
