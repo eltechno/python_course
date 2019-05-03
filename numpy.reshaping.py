@@ -30,6 +30,7 @@ print(array_one)
 # columns. The notation ... represents the missing data. The second case shows t
 # he first and last three of the 100 rows, and the first and last three of the
 # 1000 columns:
+import timeit
+large_array =np.arange(1, 100001).reshape(4, 25000)
 
-large_array =  np.arange(1, 100001).reshape(4, 25000)
 print(large_array)
