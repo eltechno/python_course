@@ -14,9 +14,9 @@ import numpy as np
 from collections import Counter
 
 filename = "100000_Sales_Records.csv"
-file = open(filename,newline="")
-reader = csv.reader(file)
-header = next(reader) # first line is the head
+file = open(filename,newline="") #open a file and remove any character at the end of every line like ^M
+reader = csv.reader(file) #assing the file to a csv reader
+header = next(reader) # first line is the head remove
 #print(header)
 
 #lines = [line for line in open(filename)]
@@ -53,7 +53,6 @@ mylist =list(dict.fromkeys(Solo_Nombres)) #convert a list into dictionary then a
 #print(len(datos))
 #print(len(Paises))
 
-TEST=[]
 for x in mylist:  #aqui el X toma el valor del pais, el STRING
     #print(x)
     #sleep(4)
@@ -68,7 +67,13 @@ for x in mylist:  #aqui el X toma el valor del pais, el STRING
             total = Paises[y][1] + total
     print(x, total) #print totales de cada region
 
-
+total2=0
+for nuestro_pais in range(len(datos)):
+    #print(nuestro_pais)
+    #print(datos[nuestro_pais][13])
+    if "Guatemala" == datos[nuestro_pais][1]:
+        total2 = datos[nuestro_pais][13] + total2
+print("Guatemala", total2)
 
 #print(TEST)
 #print(len(TEST))
