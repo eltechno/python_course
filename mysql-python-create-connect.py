@@ -10,14 +10,18 @@
 import mysql.connector
 #conda install -c anaconda mysql-connector-python
 
-connection = mysql.connector.connect(host ="127.0.0.1",user="techno",password="Guate2019_", database="pydata")
+connection = mysql.connector.connect(host ="127.0.0.1",user="techno",password="Guate2019_")
 #connection is the string to connect to database
+
 mycursor = connection.cursor()
-#mycursor.execute("CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255))")
 
-mycursor.execute("SHOW TABLES")
+#mycursor.execute("DROP DATABASE pydata") #drop databases
+#mycursor.execute("CREATE DATABASE pydata") # create a database
+mycursor.execute("SHOW DATABASES")
 
-for x in mycursor:
+
+for x in mycursor: #lista las bases de datos
     print(x)
 
-mycursor.close()
+connection.close() #close the conection
+
