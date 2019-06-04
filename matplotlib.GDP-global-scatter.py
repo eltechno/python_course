@@ -1,4 +1,4 @@
-l
+
 import pandas as pd
 globe =  pd.read_csv("gapminder.csv", skipinitialspace=True, usecols=['life_exp', 'gdp_cap'])
 life_exp = list(globe.life_exp)
