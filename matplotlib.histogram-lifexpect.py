@@ -11,3 +11,4 @@ from matplotlib import pyplot as plt
 
 plt.hist(life_exp)
 plt.show()
+#this is how to show the graph
