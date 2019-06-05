@@ -7,7 +7,7 @@ gdp_cap = list(globe.gdp_cap)
 
 
 import matplotlib
-matplotlib.use("TkAgg") #this is only for macOS
+#matplotlib.use("TkAgg") #this is only for macOS
 from matplotlib import pyplot as plt
 
 # Print the last item of gdp_cap and life_exp
