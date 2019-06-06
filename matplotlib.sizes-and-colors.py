@@ -40,5 +40,16 @@ plt.ylabel('Life Expectancy [in years]')
 plt.title('World Development in 2007')
 plt.xticks([1000, 10000, 100000],['1k', '10k', '100k'])
 
+
+
+# Additional customizations
+plt.text(1550, 71, 'India')
+plt.text(5700, 80, 'China')
+
+
+# Add grid() call
+
+plt.grid(True)
+
 # Display the plot
 plt.show()
