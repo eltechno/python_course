@@ -9,10 +9,10 @@ pop = list(globe.population)
 # Store pop as a numpy array: np_pop
 np_pop = np.array(pop)
 
-np_pop / 1000000
+np_pop = np_pop / 1000000 #resize the data into millons
 
 # Double np_pop
-#np_pop * 2
+np_pop * 2
 
 # Update: set s argument to np_pop
 plt.scatter(gdp_cap, life_exp, s = np_pop)
