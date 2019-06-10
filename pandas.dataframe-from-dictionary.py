@@ -15,5 +15,18 @@ print(brics)
 
 
 brics.index = ["BR", "RU", "IN", "CH", "SA"] #personalize the labels
+print()
 
-print(brics)
+cols = "A B C D".split() #create new labels for columns
+print(cols)   #print columns
+print(brics.columns) #print(actual columns name)
+brics.columns = cols  #replace the name with the new list
+print()
+
+
+brics.rename(columns={"C":"AREA"}, inplace=True) # replace only one name "C" for AREA
+
+print(brics.info())
+
+
+print(brics[["A", "AREA"]])
