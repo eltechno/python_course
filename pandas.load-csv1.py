@@ -17,8 +17,7 @@ print(cereal_df.head(5))
 
 print(cereal_df['cups'].dtypes)
 print(cereal_df['name'].dtypes)
-print(cereal_df['fat'].dtypes)
-
+print(cereal_df['fat'].dtypes)0
 print(cereal_df['fat'][0])
 
 print(cereal_df['fat'][0] + cereal_df['fat'][1])
