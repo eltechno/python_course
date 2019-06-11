@@ -30,3 +30,20 @@ print(brics.info())
 
 
 print(brics[["A", "AREA"]])
+print(type(brics["A"]))
+
+
+print(brics[1:4]) #print only rows
+
+print()
+
+print(brics.loc[["RU"]]) # only print one line with all the info
+
+print("with loc",brics.loc[["RU", "IN", "CH"], ["A","D"]]) #specify what row and what columns
+print("with iloc",brics.iloc[[1,2,3],[0,3]])
+
+print("with loc",brics.loc[:,["A","D"]]) #al rows but only two columns
+print("with iloc",brics.iloc[:,[0,3]]) #al rows but only two columns
+print()
+
+
