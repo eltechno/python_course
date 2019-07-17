@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f9380b7-4d07-434f-abc4-10e0bfd9a60e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dice-Roll-SampleGraph.py" afterDir="false" />
+    <list default="true" id="5f9380b7-4d07-434f-abc4-10e0bfd9a60e" name="Default Changelist" comment="matplo">
+      <change afterPath="$PROJECT_DIR$/Comprenhentions.List-of-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprenhentions.dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter.large-amount-data-functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter.large-amount-data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary-comprenhensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary-comprenhensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary-update.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary-update.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ch05/RollDie.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch05/RollDie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/math-operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenizing2-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizing2-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zip.sample1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zip.sample1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib.sizes.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,91 +24,122 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iterating-backward-sequence.py">
+        <entry file="file://$PROJECT_DIR$/tweets.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+              <column index="6" width="100" />
+              <column index="7" width="100" />
+              <column index="8" width="100" />
+              <column index="9" width="100" />
+              <column index="10" width="100" />
+              <column index="11" width="100" />
+              <column index="12" width="100" />
+              <column index="13" width="100" />
+              <column index="14" width="100" />
+              <column index="15" width="100" />
+              <column index="16" width="100" />
+              <column index="17" width="100" />
+              <column index="18" width="100" />
+              <column index="19" width="100" />
+              <column index="20" width="100" />
+              <column index="21" width="100" />
+              <column index="22" width="100" />
+              <column index="23" width="100" />
+              <column index="24" width="100" />
+              <column index="25" width="100" />
+              <column index="26" width="100" />
+              <column index="27" width="100" />
+              <column index="28" width="100" />
+              <column index="29" width="100" />
+              <column index="30" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Error.try-except-twitter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dice-simulation.py">
+        <entry file="file://$PROJECT_DIR$/Error.tweets-try-except.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="276">
+              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random-dice-6k.py">
+        <entry file="file://$PROJECT_DIR$/Iterations.iterables.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="345">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bar-char.py">
+        <entry file="file://$PROJECT_DIR$/Enumerate.sample1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state>
+              <caret selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter.large-amount-data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Comprenhentions.List-of-lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dice-Roll-SampleGraph.py">
+        <entry file="file://$PROJECT_DIR$/Comprenhentions.dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/ch05/RollDie.py">
+        <entry file="file://$PROJECT_DIR$/Twitter.large-amount-data-functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="10" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zip-function-iterables-into-tuples.py">
+        <entry file="file://$PROJECT_DIR$/Zip.sample1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tokenizing2-string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionary-update.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionary-comprenhensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="321">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -141,65 +172,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/escape-sequences.py" />
-        <option value="$PROJECT_DIR$/examples/ch02/minimum-number.py" />
-        <option value="$PROJECT_DIR$/minimum-number.py" />
-        <option value="$PROJECT_DIR$/print-arguments.py" />
-        <option value="$PROJECT_DIR$/augmented-assignments.py" />
-        <option value="$PROJECT_DIR$/class-average.py" />
-        <option value="$PROJECT_DIR$/class-average-with-not-zero.py" />
-        <option value="$PROJECT_DIR$/decimal.py" />
-        <option value="$PROJECT_DIR$/compound-interest.py" />
-        <option value="$PROJECT_DIR$/breack-statement.py" />
-        <option value="$PROJECT_DIR$/measures-of-central-tendency.py" />
-        <option value="$PROJECT_DIR$/random-number.py" />
-        <option value="$PROJECT_DIR$/random-dice-6k.py" />
-        <option value="$PROJECT_DIR$/Random-dice.py" />
-        <option value="$PROJECT_DIR$/dice-simulation.py" />
-        <option value="$PROJECT_DIR$/arbitrary-arguments.py" />
-        <option value="$PROJECT_DIR$/functions-belong-objects.py" />
-        <option value="$PROJECT_DIR$/for-and-range.py" />
-        <option value="$PROJECT_DIR$/tuples-mutable-objects.py" />
-        <option value="$PROJECT_DIR$/Bar-char.py" />
-        <option value="$PROJECT_DIR$/slice-numbers.py" />
-        <option value="$PROJECT_DIR$/del-statement.py" />
-        <option value="$PROJECT_DIR$/passing-list-to-funcs.py" />
-        <option value="$PROJECT_DIR$/accessing-indices.py" />
-        <option value="$PROJECT_DIR$/count-occurences.py" />
-        <option value="$PROJECT_DIR$/insert-elements-list.py" />
-        <option value="$PROJECT_DIR$/Simulate-stacks.py" />
-        <option value="$PROJECT_DIR$/list-compenhensions.py" />
-        <option value="$PROJECT_DIR$/generators-expressions.py" />
-        <option value="$PROJECT_DIR$/calculate-aread.py" />
-        <option value="$PROJECT_DIR$/lambda-example.py" />
-        <option value="$PROJECT_DIR$/lambda-average.py" />
-        <option value="$PROJECT_DIR$/lambda-reduce-function.py" />
-        <option value="$PROJECT_DIR$/List - Comprenhention.py" />
-        <option value="$PROJECT_DIR$/OS-get-hostname.py" />
-        <option value="$PROJECT_DIR$/check-filesystem-space.py" />
-        <option value="$PROJECT_DIR$/raw-input.py" />
-        <option value="$PROJECT_DIR$/min-and-max-alphabet.py" />
-        <option value="$PROJECT_DIR$/iterating-backward-sequence.py" />
-        <option value="$PROJECT_DIR$/zip-function-iterables-into-tuples.py" />
-        <option value="$PROJECT_DIR$/enumerate.py" />
-        <option value="$PROJECT_DIR$/Dictionaries.py" />
-        <option value="$PROJECT_DIR$/students-grade.py" />
-        <option value="$PROJECT_DIR$/tokenizing-string.py" />
-        <option value="$PROJECT_DIR$/tokenizing2-string.py" />
-        <option value="$PROJECT_DIR$/dictionary-update.py" />
-        <option value="$PROJECT_DIR$/Dictionary-comprenhensions.py" />
-        <option value="$PROJECT_DIR$/math-union.py" />
-        <option value="$PROJECT_DIR$/math-operators.py" />
-        <option value="$PROJECT_DIR$/examples/ch05/RollDie.py" />
-        <option value="$PROJECT_DIR$/Dice-Roll-SampleGraph.py" />
+        <option value="$PROJECT_DIR$/pandas.load-csv1.py" />
+        <option value="$PROJECT_DIR$/pandas.dataframe-from-dictionary.py" />
+        <option value="$PROJECT_DIR$/numpy.recap.py" />
+        <option value="$PROJECT_DIR$/numpy_boolean-operators.py" />
+        <option value="$PROJECT_DIR$/pantas.filtering-brics.py" />
+        <option value="$PROJECT_DIR$/numpy.pandas-filtering.py" />
+        <option value="$PROJECT_DIR$/while.and-if.py" />
+        <option value="$PROJECT_DIR$/for.loop-example.py" />
+        <option value="$PROJECT_DIR$/numpy.FOR-arrays-1D-2D.py" />
+        <option value="$PROJECT_DIR$/pandas.FOR-loop.py" />
+        <option value="$PROJECT_DIR$/pandas.FOR-dataframe.py" />
+        <option value="$PROJECT_DIR$/Random.generate-number.py" />
+        <option value="$PROJECT_DIR$/Random.head-or-tails.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk-MAX.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk_GRAPH.py" />
+        <option value="$PROJECT_DIR$/Random.head-or-tails-100runs.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk_multiple.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk_multiple_graph.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk-clumsiness.py" />
+        <option value="$PROJECT_DIR$/Random.random_walk_plot_distribution.py" />
+        <option value="$PROJECT_DIR$/Functions.single-parameter.py" />
+        <option value="$PROJECT_DIR$/Functions.return-single-value.py" />
+        <option value="$PROJECT_DIR$/Functions.returning-multiple-values.py" />
+        <option value="$PROJECT_DIR$/Functions.tweets.py" />
+        <option value="$PROJECT_DIR$/Functions.tweet2.py" />
+        <option value="$PROJECT_DIR$/Functions.nested1.py" />
+        <option value="$PROJECT_DIR$/Functions.nested2.py" />
+        <option value="$PROJECT_DIR$/Functions.nested3.py" />
+        <option value="$PROJECT_DIR$/Functions.nested4.py" />
+        <option value="$PROJECT_DIR$/Functions.default-parameter.py" />
+        <option value="$PROJECT_DIR$/Functions.flexible-args.py" />
+        <option value="$PROJECT_DIR$/Functions.**kwargs.py" />
+        <option value="$PROJECT_DIR$/Functions.default-parameter1.py" />
+        <option value="$PROJECT_DIR$/Functions.flexible-args2.py" />
+        <option value="$PROJECT_DIR$/Functions.**kwargs2.py" />
+        <option value="$PROJECT_DIR$/Functions.tweet3.py" />
+        <option value="$PROJECT_DIR$/Functions.tweet3-args.py" />
+        <option value="$PROJECT_DIR$/Lamba.example1.py" />
+        <option value="$PROJECT_DIR$/Error.rise-exception.py" />
+        <option value="$PROJECT_DIR$/Error.tweets.py" />
+        <option value="$PROJECT_DIR$/Error.handling.py" />
+        <option value="$PROJECT_DIR$/Error.try-except-twitter.py" />
+        <option value="$PROJECT_DIR$/Error.tweets-try-except.py" />
+        <option value="$PROJECT_DIR$/Iterations.iterables.py" />
+        <option value="$PROJECT_DIR$/Enumerate.sample1.py" />
+        <option value="$PROJECT_DIR$/Zip.sample1.py" />
+        <option value="$PROJECT_DIR$/Twitter.large-amount-data.py" />
+        <option value="$PROJECT_DIR$/Twitter.large-amount-data-functions.py" />
+        <option value="$PROJECT_DIR$/Comprenhentions.List-of-lists.py" />
+        <option value="$PROJECT_DIR$/Comprenhentions.dictionary.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1973" />
-    <option name="y" value="66" />
-    <option name="width" value="1536" />
-    <option name="height" value="916" />
+    <option name="x" value="1999" />
+    <option name="y" value="44" />
+    <option name="width" value="1530" />
+    <option name="height" value="909" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -213,19 +244,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05" type="462c0819:PsiDirectoryNode" />
+              <item name="python_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_course" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,8 +257,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/ch05/RollDie.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anaconda3/bin/conda" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -260,8 +281,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RollDie">
-    <configuration name="Bar-char" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Comprenhentions.dictionary">
+    <configuration name="Comprenhentions.List-of-lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,7 +294,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bar-char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comprenhentions.List-of-lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dice-Roll-SampleGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Comprenhentions.dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,7 +315,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dice-Roll-SampleGraph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comprenhentions.dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RollDie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twitter.large-amount-data-functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,11 +332,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/ch05/RollDie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter.large-amount-data-functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twitter.large-amount-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter.large-amount-data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zip.sample1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zip.sample1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,27 +408,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterating-backward-sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterating-backward-sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="long-lines" type="PythonConfigurationType" factoryName="Python">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,27 +421,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/long-lines.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="random-dice-6k" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random-dice-6k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,19 +454,19 @@
       <item itemvalue="Python.csco-Experiment" />
       <item itemvalue="Python.long-lines" />
       <item itemvalue="Python.tuple-example" />
-      <item itemvalue="Python.iterating-backward-sequence" />
-      <item itemvalue="Python.random-dice-6k" />
-      <item itemvalue="Python.Bar-char" />
-      <item itemvalue="Python.Dice-Roll-SampleGraph" />
-      <item itemvalue="Python.RollDie" />
+      <item itemvalue="Python.Zip.sample1" />
+      <item itemvalue="Python.Twitter.large-amount-data" />
+      <item itemvalue="Python.Twitter.large-amount-data-functions" />
+      <item itemvalue="Python.Comprenhentions.List-of-lists" />
+      <item itemvalue="Python.Comprenhentions.dictionary" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RollDie" />
-        <item itemvalue="Python.Dice-Roll-SampleGraph" />
-        <item itemvalue="Python.Bar-char" />
-        <item itemvalue="Python.random-dice-6k" />
-        <item itemvalue="Python.iterating-backward-sequence" />
+        <item itemvalue="Python.Comprenhentions.dictionary" />
+        <item itemvalue="Python.Comprenhentions.List-of-lists" />
+        <item itemvalue="Python.Twitter.large-amount-data-functions" />
+        <item itemvalue="Python.Twitter.large-amount-data" />
+        <item itemvalue="Python.Zip.sample1" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +516,315 @@
       <option name="project" value="LOCAL" />
       <updated>1552599277773</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="matploit ploting tick">
+      <created>1559860572612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559860572612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="matploit ploting sizes bobbles">
+      <created>1559860593336</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559860593336</updated>
+    </task>
+    <task id="LOCAL-00008" summary="matploit ploting sizes bubbles and countries">
+      <created>1559860852456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559860852456</updated>
+    </task>
+    <task id="LOCAL-00009" summary="matploit ploting sizes bubbles and countries and colors for each country and its region">
+      <created>1559861869198</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559861869198</updated>
+    </task>
+    <task id="LOCAL-00010" summary="matploit ploting sizes bubbles and countries, with some mods and colors">
+      <created>1559862832211</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559862832211</updated>
+    </task>
+    <task id="LOCAL-00011" summary="index simple example">
+      <created>1559931871443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559931871443</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dictionary add remove update create, sub-dictionary and more">
+      <created>1559946108663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559946108663</updated>
+    </task>
+    <task id="LOCAL-00013" summary="pandas first example how to load csv file">
+      <created>1560189832034</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560189832034</updated>
+    </task>
+    <task id="LOCAL-00014" summary="dataset for first pandas example">
+      <created>1560189890358</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560189890358</updated>
+    </task>
+    <task id="LOCAL-00015" summary="matploit ploting sizes bubbles and countries">
+      <created>1560189916431</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560189916431</updated>
+    </task>
+    <task id="LOCAL-00016" summary="pandas, dictionary to pandas dataset">
+      <created>1560199881028</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560199881029</updated>
+    </task>
+    <task id="LOCAL-00017" summary="pandas dataframe from dictionary">
+      <created>1560208941417</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560208941417</updated>
+    </task>
+    <task id="LOCAL-00018" summary="pandas.dataframe from dictionary 2">
+      <created>1560208965094</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560208965094</updated>
+    </task>
+    <task id="LOCAL-00019" summary="pandas load csv">
+      <created>1560208982703</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560208982703</updated>
+    </task>
+    <task id="LOCAL-00020" summary="matploit ploting sizes bubbles and countries updated with loc and iloc">
+      <created>1560284992252</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560284992252</updated>
+    </task>
+    <task id="LOCAL-00021" summary="numpy recap with boolean">
+      <created>1560448717847</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1560448717847</updated>
+    </task>
+    <task id="LOCAL-00022" summary="numpy boolean operators">
+      <created>1560888288283</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560888288283</updated>
+    </task>
+    <task id="LOCAL-00023" summary="small dataset brics.csv for pandas examples">
+      <created>1560893554777</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1560893554777</updated>
+    </task>
+    <task id="LOCAL-00024" summary="numpy and pandas combined to filter">
+      <created>1561067950005</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1561067950005</updated>
+    </task>
+    <task id="LOCAL-00025" summary="pandas filtering">
+      <created>1561068000031</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1561068000031</updated>
+    </task>
+    <task id="LOCAL-00026" summary="small while example">
+      <created>1561152997949</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1561152997949</updated>
+    </task>
+    <task id="LOCAL-00027" summary="for loop example">
+      <created>1561153026884</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1561153026884</updated>
+    </task>
+    <task id="LOCAL-00028" summary="cars data for loading">
+      <created>1561153145102</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1561153145102</updated>
+    </task>
+    <task id="LOCAL-00029" summary="numpy for arrays 1d and 2d">
+      <created>1561418480006</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1561418480006</updated>
+    </task>
+    <task id="LOCAL-00030" summary="pandas loop for dataframes">
+      <created>1561418500303</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1561418500303</updated>
+    </task>
+    <task id="LOCAL-00031" summary="pandas for loops">
+      <created>1561418516075</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1561418516075</updated>
+    </task>
+    <task id="LOCAL-00032" summary="random number generator">
+      <created>1561418537254</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1561418537254</updated>
+    </task>
+    <task id="LOCAL-00033" summary="playing with random numbers and other random stuff">
+      <created>1561503110127</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1561503110127</updated>
+    </task>
+    <task id="LOCAL-00034" summary="functions and twitter 1">
+      <created>1562192800226</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1562192800226</updated>
+    </task>
+    <task id="LOCAL-00035" summary="functions and twitter 2">
+      <created>1562192834920</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1562192834920</updated>
+    </task>
+    <task id="LOCAL-00036" summary="functions single parameter">
+      <created>1562192851712</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1562192851712</updated>
+    </task>
+    <task id="LOCAL-00037" summary="functions returning multiple values">
+      <created>1562194397415</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1562194397415</updated>
+    </task>
+    <task id="LOCAL-00038" summary="functions returning single value">
+      <created>1562194419731</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1562194419731</updated>
+    </task>
+    <task id="LOCAL-00039" summary="csv files for functions">
+      <created>1562194455501</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1562194455501</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Functions files">
+      <created>1562627151001</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1562627151001</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Functions tweets 3">
+      <created>1562694569627</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1562694569627</updated>
+    </task>
+    <task id="LOCAL-00042" summary="functions kwargs 2">
+      <created>1562714049686</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1562714049686</updated>
+    </task>
+    <task id="LOCAL-00043" summary="functions tweet 3">
+      <created>1562714066186</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1562714066186</updated>
+    </task>
+    <task id="LOCAL-00044" summary="lamda mini example 1">
+      <created>1562714083902</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1562714083902</updated>
+    </task>
+    <task id="LOCAL-00045" summary="lambda examples">
+      <created>1562781425836</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1562781425836</updated>
+    </task>
+    <task id="LOCAL-00046" summary="how to handle with errors">
+      <created>1563224701607</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1563224701607</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Zip sample 1">
+      <created>1563232018126</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1563232018126</updated>
+    </task>
+    <task id="LOCAL-00048" summary="iterations samples">
+      <created>1563232036068</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1563232036068</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Enumerate sample1">
+      <created>1563232052805</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1563232052805</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView">
@@ -508,23 +837,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1973" y="66" width="1536" height="916" extended-state="0" />
+    <frame x="1999" y="44" width="1530" height="909" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.22736286" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.22748499" />
       <window_info id="Structure" order="1" sideWeight="0.5020576" side_tool="true" weight="0.22736286" />
       <window_info id="Favorites" order="2" sideWeight="0.5020576" side_tool="true" weight="0.22736286" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.36553526" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3994778" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49833888" visible="true" weight="0.48133847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32898173" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3211488" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009914" side_tool="true" weight="0.36553526" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32898173" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32015306" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016611" side_tool="true" weight="0.36479592" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32780612" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32908162" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -541,363 +871,440 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sum all numbers" />
-    <MESSAGE value="inserting other modules" />
-    <MESSAGE value="double and single quotation" />
-    <MESSAGE value="double and single quotation - 2" />
-    <MESSAGE value="double and single quotation example 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="double and single quotation example 2" />
+    <MESSAGE value="pandas filtering" />
+    <MESSAGE value="small while example" />
+    <MESSAGE value="for loop example" />
+    <MESSAGE value="cars data for loading" />
+    <MESSAGE value="numpy for arrays 1d and 2d" />
+    <MESSAGE value="pandas loop for dataframes" />
+    <MESSAGE value="pandas for loops" />
+    <MESSAGE value="random number generator" />
+    <MESSAGE value="playing with random numbers and other random stuff" />
+    <MESSAGE value="functions and twitter 1" />
+    <MESSAGE value="functions and twitter 2" />
+    <MESSAGE value="functions single parameter" />
+    <MESSAGE value="functions returning multiple values" />
+    <MESSAGE value="functions returning single value" />
+    <MESSAGE value="csv files for functions" />
+    <MESSAGE value="Functions files" />
+    <MESSAGE value="Functions tweets 3" />
+    <MESSAGE value="functions kwargs 2" />
+    <MESSAGE value="functions tweet 3" />
+    <MESSAGE value="lamda mini example 1" />
+    <MESSAGE value="lambda examples" />
+    <MESSAGE value="how to handle with errors" />
+    <MESSAGE value="Zip sample 1" />
+    <MESSAGE value="iterations samples" />
+    <MESSAGE value="Enumerate sample1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumerate sample1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/augmented-assignments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
+    <entry file="file://$PROJECT_DIR$/brics.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class-average.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="5" selection-start-line="18" selection-start-column="18" selection-end-line="19" selection-end-column="5" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/cars.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class-average-with-not-zero.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/compound-interest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/measures-of-central-tendency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#713#727#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random-number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random-dice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arbitrary-arguments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1247971763/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66033">
-          <caret line="2952" column="8" selection-start-line="2952" selection-start-column="8" selection-end-line="2952" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions-belong-objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for-and-range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/del-statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generator  - Expresion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slice-numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1265">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/count-occurences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generators-expressions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accessing-indices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuples-of-items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Simulate-stacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculate-aread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insert-elements-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple-example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuples-mutable-objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passing-list-to-funcs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/check-filesystem-space.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="41" column="61" lean-forward="true" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OS-get-hostname.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="e#208#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/min-and-max-alphabet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list-compenhensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambda-reduce-function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambda-average.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambda-example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List - Comprenhention.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
+        <state relative-caret-position="1246">
           <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/students-grade.py">
+    <entry file="file://$PROJECT_DIR$/dictionary.example-simple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="306">
+          <caret line="28" column="65" lean-forward="true" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tokenizing-string.py">
+    <entry file="file://$PROJECT_DIR$/pandas.FOR-dataframe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="291">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/math-union.py">
+    <entry file="file://$PROJECT_DIR$/numpy.FOR-arrays-1D-2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="140" selection-start-line="4" selection-start-column="140" selection-end-line="4" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy.fifa-stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas.FOR-loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.generate-number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk-MAX.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk_GRAPH.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.head-or-tails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.head-or-tails-100runs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk_multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk_multiple_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk-clumsiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding>
+            <element signature="e#42#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.single-parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.returning-multiple-values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.return-single-value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.random_walk_plot_distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#42#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas.load-csv1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.tweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.nested1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math-operators.py">
+    <entry file="file://$PROJECT_DIR$/Functions.nested2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary-comprenhensions.py">
+    <entry file="file://$PROJECT_DIR$/Functions.nested3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionary-update.py">
+    <entry file="file://$PROJECT_DIR$/Functions.nested4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.default-parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.flexible-args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.**kwargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.default-parameter1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.flexible-args2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.**kwargs2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.tweet2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.tweet3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Error.rise-exception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tokenizing2-string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip-function-iterables-into-tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iterating-backward-sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dice-simulation.py">
+    <entry file="file://$PROJECT_DIR$/Functions.tweet3-args.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/random-dice-6k.py">
+    <entry file="file://$PROJECT_DIR$/Error.handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="261">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charges_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bar-char.py">
+    <entry file="file://$PROJECT_DIR$/lambda-average.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lamba.example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/ch05/RollDie.py">
+    <entry file="file://$PROJECT_DIR$/Error.tweets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dice-Roll-SampleGraph.py">
+    <entry file="file://$PROJECT_DIR$/Error.try-except-twitter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Error.tweets-try-except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zip.sample1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+          <column index="13" width="100" />
+          <column index="14" width="100" />
+          <column index="15" width="100" />
+          <column index="16" width="100" />
+          <column index="17" width="100" />
+          <column index="18" width="100" />
+          <column index="19" width="100" />
+          <column index="20" width="100" />
+          <column index="21" width="100" />
+          <column index="22" width="100" />
+          <column index="23" width="100" />
+          <column index="24" width="100" />
+          <column index="25" width="100" />
+          <column index="26" width="100" />
+          <column index="27" width="100" />
+          <column index="28" width="100" />
+          <column index="29" width="100" />
+          <column index="30" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterations.iterables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enumerate.sample1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter.large-amount-data-functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter.large-amount-data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comprenhentions.List-of-lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comprenhentions.dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
