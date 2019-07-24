@@ -21,5 +21,7 @@ print("only {0:.2f}% of the {1} produced worldwide is {2}". format(0.5155675, "d
 
 #data and time
 from datetime import datetime
+get_date = datetime.now()
+print(get_date)
 print(datetime.now())
 print("Today's date is {:%Y-%m-%d %H:%M}".format(datetime.now()))
