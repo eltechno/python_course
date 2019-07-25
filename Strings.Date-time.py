@@ -9,4 +9,3 @@ message = "Good morning. Today is {today:%B %d, %Y}. It's {today:%H:%M} ... time
 # Format date
 print(message.format(today=get_date))
 
-
