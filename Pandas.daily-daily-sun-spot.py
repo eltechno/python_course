@@ -30,5 +30,5 @@ sunspots.to_csv(out_csv)
 out_tsv='sunspots.tsv'
 sunspots.to_csv(out_tsv, sep='\t')
 
-out_xlsx = 'sunspots.xlsx'
-sunspots.to_excel(out_xlsx)
+#out_xlsx = 'sunspots.xlsx'
+#sunspots.to_excel(out_xlsx)
