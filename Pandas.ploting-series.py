@@ -15,7 +15,7 @@ close_series.plot() #plots series directly
 plt.show()
 
 
-applt.plot() # plot all series all the same time
+appl.plot() # plot all series all the same time
 plt.show()
 
 #fixiing scale
@@ -31,7 +31,7 @@ plt.show()
 
 
 appl.loc['2001':'2004', ['open', 'close', 'high', 'low']].plot()
-plt.savefig('appl.png')
-plt.savefig('appl.jpg')
-plt.savefig('app;.pdf')
+#plt.savefig('appl.png')
+#plt.savefig('appl.jpg')
+#plt.savefig('appl.pdf')
 plt.show()
