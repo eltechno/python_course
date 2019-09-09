@@ -29,16 +29,16 @@ plt.show()
 #cumulative (boolean) compute Cumulative Distribution Fuction CDF
 
 
-iris.plot(y='sepal_leght', kind='hist'
-          bins=30, range(4,8), normaed=True)
-plt.ylabel('sepal width (cm)')
-plt.show()
+#iris.plot(y='sepal_leght', kind='hist', bins=30, normed=True)
 
-iris.plot(y='sepal_leght', kind='hist'
-          bins=30, range(4,8), cumulative=True, normed=True)
-plt.ylabel('sepal width (cm)')
-plt.title("Cumulative distribution fuction CDF")
-plt.show()
+          #bins=30, range(4,8), normed=True)
+#plt.ylabel('sepal width (cm)')
+#plt.show()
+
+#iris.plot(y='sepal_leght', kind='hist',bins=30,cumulative=True, normed=True)
+#plt.ylabel('sepal width (cm)')
+#plt.title("Cumulative distribution fuction CDF")
+#plt.show()
 
 #WARNING
 #iris.plot(kind='hist')
