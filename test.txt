@@ -1,0 +1,7 @@
+Subject: El ticket # 445 ha sido actualizado
+Subject: MIME Test
+Mime-Version: 1.0
+Content-Type: text/html
+
+<h2>Gracias por su comunicacion conocemos de sus necesidades espere a que uno de nuestros agentes se comunique con usted en las proximas horas para poder comentarle mas a detalle de la situacion:</h2>
+<h1 style="text-align: center;"><span style="color: #ff6600;"><strong>"Brandolin se come EL NEPE"</strong></span></h1>
