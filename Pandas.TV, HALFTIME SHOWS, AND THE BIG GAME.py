@@ -1,5 +1,6 @@
 # Import pandas
 import pandas as pd
+import seaborn as sns
 from matplotlib import pyplot as plt
 #%matplotlib inline
 
@@ -51,3 +52,13 @@ print(super_bowls[super_bowls['difference_pts'] == 1])
 #Select the Super Bowl(s) where the point difference was greater than or equal to 35.
 print(super_bowls[super_bowls['difference_pts'] <= 35])
 
+#We can plot household share (average percentage of U.S. households with a TV in use that
+# were watching for the entire broadcast) vs. point difference to find out.
+
+# Join game and TV data, filtering out SB I because it was split over two networks
+games_tv = pd.merge(tv[tv['super_bowl'] > 1], super_bowls, on='super_bowl')
+#merge (pd. left, pd right, on=LABEL)
+
+
+# Create a scatter plot with a linear regression model fit
+sns.regplot(x='difference_pts', y='share_household', data=games_tv)
