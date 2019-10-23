@@ -1,0 +1,20 @@
+from bs4 import BeautifulSoup
+import requests
+
+url= "https://www.crummy.com/software/BeautifulSoup/"
+r= requests.get(url)
+html_doc = r.text
+soup = BeautifulSoup(html_doc, features="html.parser")
+
+#print the full html code
+#print(soup.prettify())
+
+#extract only the titles
+print(soup.title)
+
+#extract only the text with no markup
+print(soup.get_text())
+
+#extract only the links
+for link in soup.find_all('a'):
+    print(link.get("href"))
