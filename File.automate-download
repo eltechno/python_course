@@ -1,0 +1,16 @@
+from urllib.request import urlretrieve
+import pandas as pd
+import matplotlib.pyplot as plt
+
+url = "https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv"
+urlretrieve(url, "winequality-white.csv")
+
+df = pd.read_csv('winequality-white.csv', sep=';')
+print(df.head())
+
+
+# Plot first column of df
+pd.DataFrame.hist(df.iloc[:, 0:1])
+plt.xlabel('fixed acidity (g(tartaric acid)/dm$^3$)')
+plt.ylabel('count')
+plt.show()

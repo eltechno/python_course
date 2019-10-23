@@ -1,4 +1,4 @@
-import pandas as pd
+    import pandas as pd
 from matplotlib import pyplot as plt
 
 data = pd.read_stata('disarea.dta')
