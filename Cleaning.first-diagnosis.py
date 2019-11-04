@@ -33,4 +33,4 @@ plt.show()
 print(df[df.fertility > 2])
 
 df.boxplot(column='fertility', by='Continent')
-plt.show()4
+plt.show()
