@@ -6,8 +6,12 @@ print(df.head())
 print(df.tail())
 print(df.shape)
 print(df.info())
+
+print("printing columns")
 print(df.columns)
 print(df.Borough.value_counts(dropna=False).head())
+
+print(df.Landmarked.value_counts(dropna=False).head())
 
 print(df.describe())
 
