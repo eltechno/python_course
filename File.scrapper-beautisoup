@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 
-url= "https://www.crummy.com/software/BeautifulSoup/"
+#url= "https://www.crummy.com/software/BeautifulSoup/"
+url = "http://asterisk.hosting.lv/"
 r= requests.get(url)
 html_doc = r.text
 soup = BeautifulSoup(html_doc, features="html.parser")
