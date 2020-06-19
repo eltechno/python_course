@@ -1,0 +1,26 @@
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials #to access authorised spotify data
+import pprint
+
+Client_ID= ""
+Client_Secret=""
+client_credential_manager = SpotifyClientCredentials(client_id=Client_ID, client_secret=Client_Secret)
+sp = spotipy.Spotify(client_credentials_manager=client_credential_manager)
+
+
+#sp.trace = True # turn on tracing
+#sp.trace_out = True # turn on trace out
+
+urn = 'spotify:artist:22QaKKmBIH3QiotuG30W3o'
+
+artist = sp.artist(urn)
+test = sp.search(artist)
+track = sp.search(q=query, type='track', )
+
+
+#print(test)
+
+#user = sp.user('eltechnox')
+#print(user)
+
+pprint.pprint(test)
